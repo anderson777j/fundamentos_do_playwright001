@@ -26,7 +26,7 @@ npx playwright test pasta/arq --headed
 npx playwright test pasta/arq --debug
 ```
 
-Use a opção que melhor te ajuda a visualizar e depurar o teste.
+Use a opção que melhor te ajuda a visualizar e depurar os testes.
 
 ## Observação
 
